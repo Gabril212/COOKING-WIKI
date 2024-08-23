@@ -66,11 +66,7 @@ To run this application, follow these instructions:
 4. **Access the Application:**
    After running the application, visit `http://127.0.0.1:8080` in your web browser to interact with the Cooking Wiki.
 
-## Customization
 
-To add more recipes, modify the `src/main.rs` file. Recipes are stored as a list of `Recipe` structs with fields for the name, ingredients, steps, and an image URL. Feel free to add or modify entries as needed.
-
-The HTML layout is found in the `templates/index.html` file, which uses the Askama templating engine to dynamically render content.
 
 ## Conclusion
 
