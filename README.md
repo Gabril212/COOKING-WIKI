@@ -14,7 +14,9 @@ Welcome to **Cooking Wiki**, a lightweight web application built with Rust, Acti
 
 ## Video Demo
 
-[Include a link to a video demo here, showcasing the web application in action.]
+[![Cooking Wiki Demo](https://img.youtube.com/vi/UNb7Y2itPa8/0.jpg)](https://youtu.be/UNb7Y2itPa8)
+
+Click the image above to watch the video demo showcasing the Cooking Wiki in action.
 
 ## Why Use Cooking Wiki?
 
@@ -74,3 +76,4 @@ The HTML layout is found in the `templates/index.html` file, which uses the Aska
 
 Cooking Wiki is a powerful yet simple tool that provides users with a personalized way to organize their recipes. Built on top of Rust’s ecosystem, this tool offers the performance and stability needed to handle your favorite meals. Whether you’re a hobbyist chef or just looking for a place to store your culinary ideas, Cooking Wiki is the tool for you!
 
+--- 
